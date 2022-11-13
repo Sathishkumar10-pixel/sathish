@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+    <style>
+        table, th, td {
+          border:1px solid black;
+        }
+        body {
+            background-image: url('https://images.pexels.com/photos/6894427/pexels-photo-6894427.jpeg?auto=compress&cs=tinysrgb&w=6000');
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+    </style>
+    <body> 
+        <title> Welcome to the world of NEXUS</title>
+        <h1 align ="center">NEXUS</h1>
+        <h3><p style="text-align:centre">Welcome to NEXUS. NEXUS is your only destination if you want to purchase the wide range of models available in Ferrari. Get all the premium car models available to you at a great price. We welcome you all to join our community and support us in our endeavour. NEXUS is created with the purpose of inspiring people to witness an exclusive automotive experience. We hope you have a wonderful experience with the purchase of your automobile. </p></h3>
+        <p style="text-align:center;"><img src="https://cdn.bigboytoyz.com/newcar/files/upload/brandmodel/1603279271861-2020_ferrari_roma_6_1600x1200.jpg" width="1000" height="600"></p>
+        <p style="text-align:center;"><img src="https://images.wsj.net/im-146731?width=1280&size=1.33333333" width="1000" height="600"></p>
+        <p style="text-align:center;"><img src="https://sasatimes.com/wp-content/uploads/2022/06/Performance-of-ZACOE-Ferrari-F8-Tributo.jpg" width="1000" height="600"></p>
+        <p style="text-align:center;"><img src="https://stimg.cardekho.com/images/carexteriorimages/930x620/Ferrari/SF90-Stradale/7858/1591619661237/front-left-side-47.jpg" width="1000" height="600"></p>
+        <p style="text-align:center;"><img src="https://i.ytimg.com/vi/dsv3glaHLuA/maxresdefault.jpg" width="1000" height="600"></p>
+
+        <table align ="center" style="width:65%">
+            <tr>
+              <th>Car</th>
+              <th>Price</th>
+            </tr>
+            <tr>
+              <td>Ferrari Roma</td>
+              <td>3.76 Cr</td>
+            <tr>
+              <td>Ferrari Portofino</td>
+              <td>3.56 Cr</td>
+            </tr>
+            <tr>
+              <td>Ferrari F8 Tributo</td>
+              <td>4.02 Cr</td>
+            </tr>
+            <tr>
+              <td>Ferrari SF90 Stradale</td>
+              <td>7.50 Cr</td>
+            </tr>
+            <tr>
+              <td>Ferrari 812</td>
+              <td>5.75 Cr</td>
+            </tr>
+        </table>
+
+        <h2>Popular Ferrari Models</h2>
+        <ol>
+            <li>Ferrari F40</li>
+            <li>Ferrari 458 Italia</li>
+            <li>Ferrari GTC4Lusso</li>
+            <li>Ferrari 488</li>
+            <li>LaFerrari</li>
+        </ol> 
+        <div align="center">
+        <h1 align="center">Latest model released by Ferrari</h1>
+        <iframe width="885" height="498" src="https://www.youtube.com/embed/oeZVfWLKtqQ" title="2022 Ferrari SF90 Stradale by NOVITEC - Sound, Interior and Exterior" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+        <a href="https://www.motor1.com/car-lists/most-expensive-new-cars-ever/">Click here to know more about cool and expensive sports cars </a>
+        </div>
+
+        <h2 align="center"><a href="C:\Users\Derrick\Desktop\WT Exs\WT Ex 2(b).html" target="_blank"><mark style="color: blue;">Click here to register and create your own account</mark> </a>
+        </h2>
+        <hr>
+        <div>
+            <h3>Audio Section</h3>
+            <iframe style="border-radius:12px" src="https://open.spotify.com/embed/track/0iTI5FTB9iEUtcMdx9YyZS?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+            <br>
+
+        </div>
+    </body>
+  </html>
